@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "633223462876",
+    "project_id": "mercasafa",
+    "storage_bucket": "mercasafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633223462876:android:821219951758bf48f79919",
+        "android_client_info": {
+          "package_name": "com.example.mercasafa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633223462876-kfejfrtl5h6c99qfg623gmrqtci4vm82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mercasafa",
+            "certificate_hash": "179e50930035b86840a50aea05432b4053bc8f0c"
+          }
+        },
+        {
+          "client_id": "633223462876-rdcva27snrtdfs1paa054q2u7kbhhcju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBytHV_xRQpwKC20kvHsPeD08VW2QkGGiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633223462876-rdcva27snrtdfs1paa054q2u7kbhhcju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

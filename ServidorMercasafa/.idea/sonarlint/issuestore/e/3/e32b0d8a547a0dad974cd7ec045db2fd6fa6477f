@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8å–¢ˆ/
+7
+java:S1220""Move this file to a named package.8úÁ¢ˆ/
+a
+java:S2147 "DCombine this catch with the one at line 28, which has the same body.(”ı¾8å–¢ˆ/
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8å–¢ˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÍÔÀÏÿÿÿÿÿ8å–¢ˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8å–¢ˆ/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8å–¢ˆ/
+T
+java:S2589"7Remove this expression which always evaluates to "true"(¡ææú8å–¢ˆ/
+a
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(ıàÑÎ8å–¢ˆ/

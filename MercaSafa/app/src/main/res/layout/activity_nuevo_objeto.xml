@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".nuevoObjeto">
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_gravity="center_vertical"
+        android:scaleType="fitCenter"
+        android:alpha="0.1"
+        android:src="@drawable/safa_logo"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/ImagenObj"
+        android:layout_width="345dp"
+        android:layout_height="240dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.591"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.574"
+        app:srcCompat="@drawable/no_disponible" />
+
+    <Button
+        android:id="@+id/btnbuscaImage"
+        android:layout_width="232dp"
+        android:layout_height="51dp"
+        android:backgroundTint="#056794"
+        android:text="Seleccione una imagen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ImagenObj"
+        app:layout_constraintVertical_bias="0.28" />
+
+    <EditText
+        android:id="@+id/textNuevoObj"
+        android:layout_width="302dp"
+        android:layout_height="57dp"
+        android:ems="10"
+        android:hint="@string/stringNombreNuevoObj"
+        android:inputType="textPersonName"
+        android:maxLength="20"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.56"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.077" />
+
+    <EditText
+        android:id="@+id/txtDescripccion"
+        android:layout_width="308dp"
+        android:layout_height="124dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/stringDescripcionNuevoObj"
+        android:inputType="textMultiLine"
+        android:maxLength="50"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.592"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.224" />
+
+    <Button
+        android:id="@+id/btnSubirObj"
+        android:layout_width="237dp"
+        android:layout_height="50dp"
+        android:backgroundTint="#056794"
+        android:text="@string/stringBtnSubirObjeto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnbuscaImage"
+        app:layout_constraintVertical_bias="0.409" />
+</androidx.constraintlayout.widget.ConstraintLayout>

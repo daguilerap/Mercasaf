@@ -1,0 +1,66 @@
+
+R
+java:S1068"0Remove this unused "flujoEntrada" private field.(÷ÄÇåüÿÿÿÿ8µ¦Š¢ˆ/
+Q
+java:S1144µ".Remove this unused private "desencrip" method.(àÙ¾Şúÿÿÿÿ8Éâ×•/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‡ÓÈşşÿÿÿÿ8µ¦Š¢ˆ/
+F
+java:S5542º"#Use secure mode and padding scheme.(÷Èİÿøÿÿÿÿ8Éâ×•/
+R
+java:S1191"5Use classes from the Java API instead of Sun classes.(—øÛÖ8Éâ×•/
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¶±ğÆ/
+V	java:S106ù"9Replace this use of System.out or System.err by a logger.(†™ñ‹8ğÄ’Ì/
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8„é±ıŒ/
+H
+java:S1068"+Remove this unused "entrada" private field.(ìü¾8‰ÔÒğ/
+b
+java:S1117Ÿ"?Rename "flujoSalida" which hides the field declared at line 26.(Óü†¼ÿÿÿÿÿ8Åñ¼ô/
+N
+java:S1068",Remove this unused "idSessio" private field.(¤Åå¹şÿÿÿÿ8µ¦Š¢ˆ/
+F
+java:S5542®"#Use secure mode and padding scheme.(÷Èİÿøÿÿÿÿ8Éâ×•/
+J
+java:S1481Õ",Remove this unused "listado" local variable.(ŸôîÆ8Åñ¼ô/
+d
+java:S2095`"GUse try-with-resources or close this "Statement" in a "finally" clause.(ô¢›Ú8Åñ¼ô/
+e
+java:S2095Ì"GUse try-with-resources or close this "Statement" in a "finally" clause.(ô¢›Ú8­½£ø/
+p	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûßïüÿÿÿÿ8Ö–¢ø/
+r
+java:S2095Œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( íÛøÿÿÿÿ8„é±ıŒ/
+Y
+java:S1854š";Remove this useless assignment to local variable "listado".(ŸôîÆ8Åñ¼ô/
+V	java:S106¿"9Replace this use of System.out or System.err by a logger.(†™ñ‹8Åñ¼ô/
+U	java:S106Ş"9Replace this use of System.out or System.err by a logger.(œ±Á8Åñ¼ô/
+[	java:S106£"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8ÛÇËéŠ/
+e
+java:S2095ê"GUse try-with-resources or close this "Statement" in a "finally" clause.(ô¢›Ú8ğÄ’Ì/
+h
+java:S1192g"FDefine a constant instead of duplicating this literal "email" 3 times.(Ùäáåşÿÿÿÿ8Åñ¼ô/
+„
+java:S1488½"aImmediately return this expression instead of assigning it to the temporary variable "decrypted".(¸ôìãùÿÿÿÿ8Éâ×•/
+0
+java:S1220""Move this file to a named package.
+^	java:S125µ"<This block of commented-out lines of code should be removed.(Ë¥¤™ÿÿÿÿÿ8Åñ¼ô/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(‡ÓÈşşÿÿÿÿ8ÛÇËéŠ/
+Y
+java:S1854Õ";Remove this useless assignment to local variable "listado".(ŸôîÆ8ğÄ’Ì/
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(”·‰ò8„é±ıŒ/
+q
+java:S20958"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( íÛøÿÿÿÿ8ØÎÊ¢ˆ/
+x
+java:S3008"VRename this field "ENCRYPT_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Æ‰ïÿÿÿÿÿ8Éâ×•/
+P
+java:S1144«"-Remove this unused private "encripta" method.(ï¶¡‡şÿÿÿÿ8Éâ×•/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(ı™øøÿÿÿÿ8µ¦Š¢ˆ/
+b
+java:S1117Ú"?Rename "flujoSalida" which hides the field declared at line 26.(Óü†¼ÿÿÿÿÿ8ğÄ’Ì/
+J
+java:S1481š",Remove this unused "listado" local variable.(ŸôîÆ8ğÄ’Ì/
+K
+java:S1068"/Remove this unused "flujoSalida" private field.(á»«
+8µ¦Š¢ˆ/
+e
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(ô¢›Ú8¦®ƒêŠ/
+U	java:S106£"9Replace this use of System.out or System.err by a logger.(œ±Á8ğÄ’Ì/

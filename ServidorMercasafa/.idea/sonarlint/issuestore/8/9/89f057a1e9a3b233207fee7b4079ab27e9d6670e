@@ -1,0 +1,14 @@
+
+g
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(íÁÓŒ8Ü ¹ˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨ïü§8·¿…¢ˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ş„°Òûÿÿÿÿ8·¿…¢ˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£À†Å8·¿…¢ˆ/
+L
+java:S1905"/Remove this unnecessary cast to "ServidorHilo".(İ¼’£8¡§£ˆ/
+P
+java:S1481".Remove this unused "idSession" local variable.(êöÂÉùÿÿÿÿ8±±æ¸ˆ/
+Z
+java:S1197	"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ8·¿…¢ˆ/
+7
+java:S1220""Move this file to a named package.8ŠÙ…¢ˆ/

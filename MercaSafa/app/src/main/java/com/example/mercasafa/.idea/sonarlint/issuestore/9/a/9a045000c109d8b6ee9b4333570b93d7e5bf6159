@@ -1,0 +1,14 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨ïü§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Þ„°Òûÿÿÿÿ
+`
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(úœ•Å
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(÷µ¯ú8ê·àñˆ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£À†Å
+W
+java:S1854":Remove this useless assignment to local variable "socket".(÷µ¯ú8ê·àñˆ/
+7
+java:S1220""Move this file to a named package.8Ù×Úñˆ/
+S
+java:S1197"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ

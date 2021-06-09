@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MercaSafa</string>
+    <string name="stringBtnInicioSesion">Iniciar Sesión</string>
+    <string name="stringBtnRegistrar">Registrarse</string>
+    <string name="stringTituloRegistro">Registrarse</string>
+    <string name="stringLabelNombre">Nombre Usuario</string>
+    <string name="stringLabelCorreo">Correo Electrónico</string>
+    <string name="stringLabelContraseña">Contraseña</string>
+    <string name="stringLabelContraseñaConfirmar">Confirmar Contraseña</string>
+    <string name="stringbtnVolver">Volver</string>
+    <string name="stringbtnAceptar">Aceptar</string>
+    <string name="stringLabelError"></string>
+    <string name="nuevoObj">Prestar algo</string>
+    <string name="listadoObj">Listado</string>
+    <string name="stringUsulogin"></string>
+    <string name="stringBtnSelecImagn">Seleccione una imagen</string>
+    <string name="stringBtnSubirObjeto">Añadir Nuevo Objeto</string>
+    <string name="stringNombreNuevoObj">Introduce el Nombre del objeto</string>
+    <string name="stringDescripcionNuevoObj">Introduce una breve descripcción</string>
+    <string name="stringNombreDetalleObjeto">Detalle Nombre Objeto</string>
+    <string name="stringDescripcionDetalleObjeto">Detalle Descripcion Objeto</string>
+    <string name="stringContactoDetalleObjeto">Detalle Contacto Objeto</string>
+    <string name="ListadoPersonal">Listado Personal</string>
+    <string name="personalBorrar">Eliminar Objeto</string>
+</resources>
